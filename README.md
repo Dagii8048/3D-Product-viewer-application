@@ -1,4 +1,4 @@
-# 🪑 3D Product Viewer with Three.js
+# ┬─┬ 3D Product Viewer with Three.js
 
 A responsive, interactive 3D product viewer built using [Three.js](https://threejs.org/). This app renders a fully lit and interactable 3D product (like a chair) composed of basic meshes, with smooth camera motion and intuitive controls.
 
@@ -35,18 +35,6 @@ A responsive, interactive 3D product viewer built using [Three.js](https://three
 - **Render Loop**: Powered by `requestAnimationFrame`.
 - **Optional Mesh Animations**: Floating or pulsing effects to bring the product to life.
 
-### 🧩 Code Structure
-Organized and modular architecture:
-📁 src/
-├── initScene.js # Scene initialization and renderer setup
-├── createProduct.js # Product mesh creation
-├── addLighting.js # Lighting setup
-├── interaction.js # Mouse and raycasting logic
-├── cameraAnimation.js # Auto camera orbiting logic
-
-Assets (scripts, styles, textures) are logically structured into respective folders for maintainability.
-
----
 
 ## 🛠️ Installation
 
